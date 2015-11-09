@@ -59,6 +59,6 @@ target/
 web_automation/email_action/**/*
 web_automation/web_action/**/*
 tmp/
-log/
+log/*.log
 *.sublime-project
 *.sublime-workspace

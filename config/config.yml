@@ -18,7 +18,7 @@ development:
     #proxy_host: 36.238.87.236
     #proxy_port: 3128
   mongo:
-    database: spy_development
+    database: selepy_development
     proscraper_database: proscraper_development
     host: 127.0.0.1
     port: 27017
